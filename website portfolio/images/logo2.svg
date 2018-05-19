@@ -1,0 +1,96 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.18 38.58">
+  <defs>
+    <style>
+      .cls-1, .cls-16 {
+        font-size: 8px;
+      }
+
+      .cls-1, .cls-15, .cls-18 {
+        font-family: Bulgari, Bulgari;
+      }
+
+      .cls-18, .cls-2, .cls-6 {
+        fill: #e54c4b;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.07em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.07em;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-12 {
+        letter-spacing: -0.05em;
+      }
+
+      .cls-13 {
+        letter-spacing: -0.05em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        font-size: 5px;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17, .cls-18 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-17 {
+        stroke-width: 0.15px;
+      }
+
+      .cls-18 {
+        font-size: 30px;
+        stroke-width: 0.25px;
+      }
+
+      .cls-19 {
+        letter-spacing: -0.03em;
+      }
+    </style>
+  </defs>
+  <title>logo2</title>
+  <text class="cls-1" transform="translate(40.25 13.17) scale(1.05 1)"><tspan class="cls-2">O</tspan><tspan class="cls-3" x="4.67" y="0">l</tspan><tspan class="cls-4" x="5.72" y="0">g</tspan><tspan class="cls-5" x="10.25" y="0">a </tspan><tspan class="cls-6" x="17.93" y="0">S</tspan><tspan class="cls-7" x="21.74" y="0">t</tspan><tspan class="cls-8" x="24.74" y="0">e</tspan><tspan class="cls-9" x="28.66" y="0">p</tspan><tspan class="cls-10" x="33.38" y="0">a</tspan><tspan class="cls-11" x="37.6" y="0">n</tspan><tspan class="cls-12" x="42.31" y="0">o</tspan><tspan class="cls-13" x="46.38" y="0">v</tspan><tspan class="cls-14" x="50.38" y="0">a </tspan></text>
+  <text class="cls-15" transform="translate(50.73 24.17) scale(1.05 1)"><tspan class="cls-2">digital designer</tspan><tspan class="cls-16" x="35.22" y="0"> </tspan></text>
+  <line class="cls-17" x1="39.18" x2="39.18" y2="33"/>
+  <text class="cls-18" transform="translate(0.12 28.73)"><tspan class="cls-19">O</tspan><tspan x="16.5" y="0">S</tspan></text>
+</svg>
